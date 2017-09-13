@@ -1,0 +1,11 @@
+{
+  "name": "npm-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Hello World!\""
+  },
+  "author": "kasheftin",
+  "license": "ISC"
+}
